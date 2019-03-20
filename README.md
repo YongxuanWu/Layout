@@ -1,6 +1,6 @@
 实验目的<br>
 ---
-练习对LinearLayout,ConstrainLayout,TableLayout的使用。<br>
+    练习对LinearLayout,ConstrainLayout,TableLayout的使用。<br>
 关键代码
 --
 1.LinearLayout<br>
@@ -137,10 +137,10 @@
     </LinearLayout>
 
     </LinearLayout>
-'''
+```
 2.ConstrainLayout<br>
   文件名：activity_main2.xml  
-'''
+```
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -265,7 +265,7 @@
 
 </android.support.constraint.ConstraintLayout>
 ```
-3.TableLayout
+3.TableLayout<br>
   文件名：activity_main3.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -344,13 +344,14 @@
             android:textSize="18sp" />
         <TextView />
     </TableRow>
+    
 </TableLayout>
 ```
-结果截图
+结果截图<br>
 ---
 1.<br>
-![](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161540.jpg)
+    ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161540.jpg)
 2.<br>
-![](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161522.jpg)
+    ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161522.jpg)
 3.<br>
-![](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161505.jpg)
+    ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161505.jpg)
