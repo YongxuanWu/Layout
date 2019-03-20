@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="btn11">One,One</string>
+    <string name="btn12">One,Two</string>
+    <string name="btn13">One,Three</string>
+    <string name="btn14">One,Four</string>
+    <string name="btn21">Two,One</string>
+    <string name="btn22">Two,Two</string>
+    <string name="btn23">Two,Three</string>
+    <string name="btn24">Two,Four</string>
+    <string name="btn31">Three,One</string>
+    <string name="btn32">Three,Two</string>
+    <string name="btn33">Three,Three</string>
+    <string name="btn34">Three,Four</string>
+    <string name="btn41">Four,One</string>
+    <string name="btn42">Four,Two</string>
+    <string name="btn43">Four,Three</string>
+    <string name="btn44">Four,Four</string>
+    <string name="one_two">One,Two</string>
+</resources>
