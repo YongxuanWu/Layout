@@ -1,13 +1,15 @@
 实验目的<br>
 ---
+<br>
 练习对LinearLayout,ConstrainLayout,TableLayout的使用。<br>
 关键代码
 --
 1.LinearLayout
-  文件名：activity_main.xml
-'''
-<?xml version="1.0" encoding="utf-8"?>
+  文件名：activity_main.xml<br>
 
+'''
+
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
@@ -353,4 +355,5 @@
 ---
 1.<br>
 ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161540.jpg)
+![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161522.jpg)
 
