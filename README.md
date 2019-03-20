@@ -1,4 +1,4 @@
-实验目的
+实验目的<br>
 ---
 练习对LinearLayout,ConstrainLayout,TableLayout的使用。<br>
 关键代码
@@ -352,4 +352,5 @@
 结果截图
 ---
 1.<br>
-![image]()
+![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161540.jpg)
+
