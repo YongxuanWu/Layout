@@ -1,7 +1,6 @@
 实验目的<br>
----
-<br>
-练习对LinearLayout,ConstrainLayout,TableLayout的使用。<br>
+--- 
+  练习对LinearLayout,ConstrainLayout,TableLayout的使用。<br>
 关键代码
 --
 1.LinearLayout
@@ -9,8 +8,8 @@
 
 '''
 
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -138,13 +137,14 @@
             android:text="@string/btn44" />
     </LinearLayout>
 
-</LinearLayout>
+    </LinearLayout>
 '''
 2.ConstrainLayout
   文件名：activity_main2.xml
 '''
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+    
+    <?xml version="1.0" encoding="utf-8"?>
+    <android.support.constraint.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -265,13 +265,14 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0" />
 
-</android.support.constraint.ConstraintLayout>
+    </android.support.constraint.ConstraintLayout>
 '''
 3.TableLayout
   文件名：activity_main3.xml
 '''
-<?xml version="1.0" encoding="utf-8"?>
-<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    
+    <?xml version="1.0" encoding="utf-8"?>
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:stretchColumns="1"
@@ -355,5 +356,7 @@
 ---
 1.<br>
 ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161540.jpg)
+2.<br>
 ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161522.jpg)
-
+3.<br>
+![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161505.jpg)
