@@ -1,6 +1,6 @@
-实验目的<br>
+实验目的
 ---
-    练习对LinearLayout,ConstrainLayout,TableLayout的使用。<br>
+    练习对LinearLayout,ConstrainLayout,TableLayout的使用。
 关键代码
 --
 1.LinearLayout<br>
@@ -349,9 +349,9 @@
 ```
 结果截图<br>
 ---
-1.<br>
+1.LinearLayout<br>
     ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161540.jpg)
-2.<br>
+2.ConstrainLayout<br>
     ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161522.jpg)
-3.<br>
+3.TableLayout<br>
     ![image](https://github.com/YongxuanWu/Layout/blob/master/images/IMG_20190319_161505.jpg)
